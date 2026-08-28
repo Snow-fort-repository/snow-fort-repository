@@ -9,5 +9,8 @@
     (git (url "https://gitlab.com/snow-fort-repository/snow-fort-repository.git")))
   (sibling
     (name "snow-fort-codeberg")
-    (git (url "https://codeberg.org/Snow-fort-repository/snow-fort-repository.git"))))
+    (git (url "https://codeberg.org/Snow-fort-repository/snow-fort-repository.git")))
+  (sibling
+    (name "srfi-explorations/r7rs-srfi")
+    (git (url "https://github.com/srfi-explorations/r7rs-srfi.git"))))
 
